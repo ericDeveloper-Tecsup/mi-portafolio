@@ -47,5 +47,5 @@ git status
 
 ![Pantalla principal del proyecto](../img/captura.png)
 
-- Guía de Markdown: https://www.markdownguide.org/
+- [Guía de Markdown](https://www.markdownguide.org/)
 
